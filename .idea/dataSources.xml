@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="db" uuid="1e6909e5-ca55-46f8-b18f-0652bf5a0f5c">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\guill\OneDrive\Documents\Connaissances_Loisirs\Etudes\ECM\ECM 2020-2021\S7\Approfondissements\I2\djangology\db.sqlite3</jdbc-url>
+    </data-source>
+  </component>
+</project>
